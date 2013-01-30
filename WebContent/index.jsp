@@ -8,7 +8,7 @@
 <title>The great Calculator</title>
 </head>
 <body>
-Hello World this is a Java Server Page
+Hello World this is a Java Server Page <br>
 
 <form action="calc.jsp" method=get>
   Enter the first number <input type=text name=parm1> <br>
