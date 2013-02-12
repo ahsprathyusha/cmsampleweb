@@ -9,7 +9,7 @@
 </head>
 <body>
 Hello CloudMunch <br>
-
+Deployment to GAE <br>
 This is a simple Java Server Page to add 2 numbers <br>
 
 <form action="calc.jsp" method=get>
