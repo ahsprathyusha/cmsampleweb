@@ -1,4 +1,4 @@
-package com.ravi;
+package com.CloudMunch;
 
 public class Calc {
 	public Calc() {
