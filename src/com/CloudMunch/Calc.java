@@ -2,7 +2,7 @@ package com.CloudMunch;
 
 public class Calc {
 	public Calc() {
-		System.out.println ("Calc created");
+		System.out.println ("Calculator created");
 		}
 		
 	    public static double add (double x, double y) {
