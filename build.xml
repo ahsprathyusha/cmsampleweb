@@ -14,7 +14,7 @@
     </fileset>
   </path>
 
-  <target name="all" depends="clean,compile,dist"
+  <target name="all" depends="clean,compile"
           description="Clean work dirs, then compile and create a WAR"/>
 
   <target name="clean"
