@@ -1,7 +1,7 @@
 package com.CloudMunch;
 
-public class Calc {
-	public Calc() {
+public class Calculator {
+	public Calculator() {
 		System.out.println ("Calculator created");
 		}
 		
